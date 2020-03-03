@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: hsla(hue, saturation, lightness, alpha);
+
+}
+#d1 ul li{ 
+    margin: 1px;
+    padding: 10px 40px;
+    list-style: none;
+    background-color: darksalmon;
+    color: black;
+    position: relative;
+    float: left;
+    width: 100px;
+    border-radius: 2px;
+}
+#d1 ul li:hover {
+    background-color: cadetblue;
+}
+
+#d1 ul li a{  
+    
+    text-decoration: none;
+}
+#d1 ul li ul{
+    display: none;
+    position: absolute;
+    margin: 10px -40px;
+
+}
+#d1 ul li:hover ul  {
+    display: block;
+}
+#day {
+    width: 355px !important;
+}
+.c1 {
+    width: 40px 40px;
+}
+
+img{
+    width: 180px;
+    height: 210px;
+}
+#i3 {
+border-style: dotted;
+list-style: none;
+
+}
+
+li{
+    list-style: none;
+}
+.d2{
+    
+ 
+    margin-top: 50px;
+   
+}
